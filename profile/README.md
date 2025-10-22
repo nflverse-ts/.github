@@ -67,7 +67,7 @@ Interested in porting an nflverse package to TypeScript? We'd love your help! Op
 
 ## Community
 
-- **Discord**: Join the [nflverse Discord](https://discord.com/invite/5Er2FBnnQa) - `#typescript` channel
+- **Discord**: Join the [nflverse Discord](https://discord.com/invite/5Er2FBnnQa)
 - **Discussions**: Use GitHub Discussions in individual repos for questions and ideas
 - **Issues**: Report bugs or request features through GitHub Issues
 
